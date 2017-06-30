@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#231F20;}
+	.st2{display:none;}
+	.st3{display:inline;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:10.385px;}
+	.st6{enable-background:new    ;}
+</style>
+<g id="Layer_1_1_">
+	<g id="Layer_2">
+	</g>
+	<g>
+		<g>
+			<rect x="0.9" y="0.9" class="st0" width="98.2" height="98.2"/>
+			<path class="st1" d="M100,100H0V0h100V100z M1.8,98.2h96.4V1.8H1.8V98.2z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="50.3,75.8 23.2,28.5 24.8,27.6 50.3,72.2 75.2,27.6 76.8,28.4 			"/>
+		</g>
+		<g>
+			<rect x="24" y="49.1" class="st1" width="52" height="1.8"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_2_1_" class="st2">
+	<text transform="matrix(1 0 0 1 5.0005 95.8096)" class="st3 st4 st5">PI</text>
+</g>
+<g id="Layer_2_2_">
+	<g class="st6">
+		<path d="M6.553,85.544h1.184v3.586h4.301v-3.586h1.184v8.748h-1.184v-4.166H7.736v4.166H6.553V85.544z"/>
+		<path d="M22.127,86.218v1.248c-0.398-0.371-0.823-0.648-1.274-0.832s-0.931-0.275-1.438-0.275c-1,0-1.766,0.306-2.297,0.917
+			s-0.797,1.495-0.797,2.651c0,1.152,0.266,2.034,0.797,2.646s1.297,0.917,2.297,0.917c0.508,0,0.987-0.092,1.438-0.275
+			s0.876-0.461,1.274-0.832v1.236c-0.414,0.281-0.853,0.492-1.315,0.633s-0.952,0.211-1.468,0.211c-1.324,0-2.367-0.405-3.129-1.216
+			s-1.143-1.917-1.143-3.319c0-1.406,0.381-2.515,1.143-3.325s1.805-1.216,3.129-1.216c0.523,0,1.017,0.069,1.479,0.208
+			S21.721,85.94,22.127,86.218z"/>
+	</g>
+</g>
+</svg>

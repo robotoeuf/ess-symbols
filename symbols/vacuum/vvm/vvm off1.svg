@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#231F20;}
+	.st3{fill:none;}
+	.st4{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.4686,1.4686;}
+	.st6{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.472,1.472;}
+	.st7{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.4706,1.4706;}
+	.st8{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.4721,1.4721;}
+	.st9{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.4741,1.4741;}
+	.st10{fill:#999999;}
+	.st11{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.4,1.4;}
+	.st12{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.5667,1.5667;}
+	.st13{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;stroke-dasharray:1.5794,1.5794;}
+</style>
+<g id="Layer_1" class="st0">
+	<g id="Layer_2" class="st1">
+	</g>
+	<g id="Layer_1_1_" class="st1">
+		<g>
+			<g>
+				<rect x="83.1" y="49.1" class="st2" width="16.9" height="1.7"/>
+			</g>
+			<g>
+				<polygon class="st3" points="49.9,49.9 83,30.8 83,69.1 				"/>
+			</g>
+			<g>
+				<rect x="49" y="83.1" class="st2" width="1.7" height="16.9"/>
+			</g>
+			<g>
+				<polygon class="st3" points="49.9,49.9 69,83.1 30.7,83.1 				"/>
+			</g>
+			<g>
+				<circle class="st2" cx="49.9" cy="49.9" r="4.8"/>
+			</g>
+			<g>
+				<rect x="42.1" y="15.9" class="st2" width="15.6" height="1.7"/>
+			</g>
+			<g>
+				<rect x="49" y="16.7" class="st2" width="1.7" height="33.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_2_1_">
+	<g id="Layer_1_2_">
+		<g>
+			<g>
+				<g>
+					<g>
+						<polyline class="st4" points="50.5,50.3 49.9,49.9 50.5,49.5 						"/>
+						<line class="st5" x1="51.8" y1="48.8" x2="81.7" y2="31.5"/>
+						<polyline class="st4" points="82.4,31.2 83,30.8 83,31.6 						"/>
+						<line class="st6" x1="83" y1="33" x2="83" y2="67.6"/>
+						<polyline class="st4" points="83,68.3 83,69.1 82.4,68.7 						"/>
+						<line class="st7" x1="81.1" y1="68" x2="51.2" y2="50.6"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polyline class="st4" points="49.5,50.5 49.9,49.9 50.3,50.6 						"/>
+						<line class="st8" x1="51" y1="51.8" x2="68.3" y2="81.8"/>
+						<polyline class="st4" points="68.6,82.4 69,83.1 68.2,83.1 						"/>
+						<line class="st6" x1="66.8" y1="83.1" x2="32.2" y2="83.1"/>
+						<polyline class="st4" points="31.5,83.1 30.7,83.1 31.1,82.5 						"/>
+						<line class="st9" x1="31.8" y1="81.2" x2="49.2" y2="51.2"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle class="st10" cx="49.9" cy="49.9" r="4.8"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st4" x1="49.8" y1="83.1" x2="49.8" y2="83.8"/>
+			<line class="st11" x1="49.8" y1="85.2" x2="49.8" y2="98.6"/>
+			<line class="st4" x1="49.8" y1="99.2" x2="49.8" y2="100"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st4" x1="83.1" y1="49.9" x2="83.8" y2="49.9"/>
+			<line class="st11" x1="85.2" y1="49.9" x2="98.6" y2="49.9"/>
+			<line class="st4" x1="99.2" y1="49.9" x2="100" y2="49.9"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st4" x1="42.1" y1="16.7" x2="42.8" y2="16.7"/>
+			<line class="st12" x1="44.4" y1="16.7" x2="56.2" y2="16.7"/>
+			<line class="st4" x1="56.9" y1="16.7" x2="57.7" y2="16.7"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st4" x1="49.9" y1="16.8" x2="49.9" y2="17.5"/>
+			<line class="st13" x1="49.9" y1="19.1" x2="49.9" y2="43.6"/>
+			<line class="st4" x1="49.9" y1="44.4" x2="49.9" y2="45.1"/>
+		</g>
+	</g>
+</g>
+</svg>

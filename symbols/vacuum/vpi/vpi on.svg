@@ -3,15 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#24E629;}
+	.st0{fill:#3DD83D;}
 	.st1{fill:#231F20;}
-	.st2{fill:#ED1C24;}
+	.st2{fill:none;}
 </style>
 <g>
 	<g>
 		<circle class="st0" cx="50" cy="50" r="49.1"/>
 		<path class="st1" d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,1.7C23.4,1.7,1.7,23.4,1.7,50
-			c0,26.6,21.7,48.3,48.3,48.3S98.3,76.6,98.3,50C98.3,23.4,76.6,1.7,50,1.7z"/>
+			S23.4,98.3,50,98.3S98.3,76.6,98.3,50S76.6,1.7,50,1.7z"/>
 	</g>
 	<g>
 		<line class="st2" x1="50" y1="50" x2="50" y2="0.9"/>
@@ -19,52 +19,52 @@
 	</g>
 	<g>
 		<line class="st2" x1="50" y1="1.6" x2="43.5" y2="10.9"/>
-		<rect x="41.1" y="5.4" transform="matrix(0.5737 -0.819 0.819 0.5737 14.7989 40.9755)" class="st1" width="11.3" height="1.7"/>
+		<rect x="41.1" y="5.4" transform="matrix(0.5737 -0.819 0.819 0.5737 14.7853 40.9545)" class="st1" width="11.3" height="1.7"/>
 	</g>
 	<g>
 		<line class="st2" x1="50" y1="1.6" x2="56.5" y2="10.9"/>
-		<rect x="52.4" y="0.6" transform="matrix(0.8192 -0.5735 0.5735 0.8192 6.0283 31.6638)" class="st1" width="1.7" height="11.3"/>
+		<rect x="52.4" y="0.6" transform="matrix(0.8192 -0.5735 0.5735 0.8192 6.0432 31.6595)" class="st1" width="1.7" height="11.3"/>
 	</g>
 	<g>
 		<g>
 			<line class="st2" x1="50" y1="49.3" x2="15.3" y2="84.1"/>
 			
-				<rect x="8.1" y="65.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -37.5951 42.6004)" class="st1" width="49.1" height="1.7"/>
+				<rect x="8.1" y="65.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -37.5687 42.5847)" class="st1" width="49.1" height="1.7"/>
 		</g>
 		<g>
 			<line class="st2" x1="15.8" y1="83.5" x2="26.9" y2="81.5"/>
 			
-				<rect x="15.7" y="81.7" transform="matrix(0.9848 -0.1739 0.1739 0.9848 -14.0238 4.9729)" class="st1" width="11.3" height="1.7"/>
+				<rect x="15.7" y="81.7" transform="matrix(0.9848 -0.1739 0.1739 0.9848 -14.0305 4.9716)" class="st1" width="11.3" height="1.7"/>
 		</g>
 		<g>
 			<line class="st2" x1="15.8" y1="83.5" x2="17.8" y2="72.4"/>
 			
-				<rect x="11.1" y="77.1" transform="matrix(0.1739 -0.9848 0.9848 0.1739 -62.8827 80.9214)" class="st1" width="11.3" height="1.7"/>
+				<rect x="11.1" y="77.1" transform="matrix(0.1739 -0.9848 0.9848 0.1739 -62.9187 80.9604)" class="st1" width="11.3" height="1.7"/>
 		</g>
 	</g>
 	<g>
 		<g>
 			<line class="st2" x1="50" y1="49.3" x2="84.7" y2="84.1"/>
 			
-				<rect x="66.5" y="42.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.4172 67.1709)" class="st1" width="1.7" height="49.1"/>
+				<rect x="66.5" y="42.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.4253 67.1414)" class="st1" width="1.7" height="49.1"/>
 		</g>
 		<g>
 			<line class="st2" x1="84.2" y1="83.5" x2="73.1" y2="81.5"/>
 			
-				<rect x="77.8" y="76.9" transform="matrix(0.1737 -0.9848 0.9848 0.1737 -16.2876 145.621)" class="st1" width="1.7" height="11.3"/>
+				<rect x="77.8" y="76.9" transform="matrix(0.1737 -0.9848 0.9848 0.1737 -16.2469 145.6475)" class="st1" width="1.7" height="11.3"/>
 		</g>
 		<g>
 			<line class="st2" x1="84.2" y1="83.5" x2="82.2" y2="72.4"/>
 			
-				<rect x="82.4" y="72.3" transform="matrix(0.9848 -0.1736 0.1736 0.9848 -12.2643 15.6245)" class="st1" width="1.7" height="11.3"/>
+				<rect x="82.4" y="72.3" transform="matrix(0.9848 -0.1736 0.1736 0.9848 -12.266 15.6363)" class="st1" width="1.7" height="11.3"/>
 		</g>
 	</g>
 	<g>
 		
-			<rect x="-18.4" y="40.6" transform="matrix(0.2439 -0.9698 0.9698 0.2439 -28.0068 47.0826)" class="st1" width="69.3" height="1.7"/>
+			<rect x="-18.5" y="40.6" transform="matrix(0.2439 -0.9698 0.9698 0.2439 -27.9671 46.9944)" class="st1" width="69.3" height="1.7"/>
 	</g>
 	<g>
-		<rect x="83" y="6.9" transform="matrix(0.9699 -0.2437 0.2437 0.9699 -7.5868 21.6724)" class="st1" width="1.7" height="69.3"/>
+		<rect x="83" y="6.9" transform="matrix(0.9699 -0.2437 0.2437 0.9699 -7.594 21.6891)" class="st1" width="1.7" height="69.3"/>
 	</g>
 </g>
 </svg>

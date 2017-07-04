@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#231F20;}
-	.st2{fill:#24E629;}
+	.st2{fill:#3DD83D;}
 </style>
 <circle class="st0" cx="50" cy="50" r="49.1"/>
 <g>
@@ -14,7 +14,7 @@
 			<rect x="42.2" y="32.9" class="st0" width="15.6" height="34.1"/>
 		</g>
 		<g>
-			<path class="st1" d="M59,68.2H41V31.8H59V68.2z M43.4,65.9h13.2V34.1H43.4V65.9z"/>
+			<path class="st1" d="M59,68.2H41V31.8h18V68.2z M43.4,65.9h13.2V34.1H43.4V65.9z"/>
 		</g>
 	</g>
 </g>

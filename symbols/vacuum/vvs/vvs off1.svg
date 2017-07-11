@@ -6,7 +6,7 @@
 	.st0{display:none;}
 	.st1{display:inline;fill:none;}
 	.st2{display:inline;}
-	.st3{fill:#231F20;}
+	.st3{fill:#000000;}
 	.st4{fill:none;}
 	.st5{fill:none;stroke:#FF1535;stroke-miterlimit:10;}
 	.st6{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;}
@@ -33,10 +33,10 @@
 		</g>
 		<g>
 			<g>
-				<line class="st4" x1="49.8" y1="67.6" x2="49.8" y2="31.1"/>
+				<line class="st4" x1="49.8" y1="67.6" x2="49.8" y2="32.1"/>
 			</g>
 			<g>
-				<rect x="48.9" y="31.1" class="st3" width="1.7" height="36.5"/>
+				<rect x="48.9" y="32.1" class="st3" width="1.7" height="36.5"/>
 			</g>
 		</g>
 		<g>

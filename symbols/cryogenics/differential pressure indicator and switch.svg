@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#221F1F;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <path class="st0" d="M30.221,15.75h-7.5c-4.262,0-7.75-3.487-7.75-7.75v0c0-4.262,3.487-7.75,7.75-7.75h7.5
 	c4.262,0,7.75,3.487,7.75,7.75v0C37.971,12.263,34.483,15.75,30.221,15.75z"/>

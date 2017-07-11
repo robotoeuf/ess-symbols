@@ -4,8 +4,7 @@
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#231F20;}
-	.st2{enable-background:new    ;}
+	.st1{enable-background:new    ;}
 </style>
 <g id="Layer_2">
 </g>
@@ -14,12 +13,12 @@
 	<g>
 		<g>
 			<g>
-				<rect x="-0.2" y="48.9" class="st1" width="19.6" height="1.7"/>
+				<rect x="-0.2" y="48.9" width="19.6" height="1.7"/>
 			</g>
 		</g>
 		<g>
 			<g>
-				<rect x="80.2" y="48.9" class="st1" width="19.6" height="1.7"/>
+				<rect x="80.2" y="48.9" width="19.6" height="1.7"/>
 			</g>
 		</g>
 		<g>
@@ -27,7 +26,7 @@
 				<line class="st0" x1="49.8" y1="67.6" x2="49.8" y2="31.1"/>
 			</g>
 			<g>
-				<rect x="48.9" y="31.1" class="st1" width="1.7" height="36.5"/>
+				<rect x="48.9" y="32.1" width="1.7" height="36.5"/>
 			</g>
 		</g>
 		<g>
@@ -35,7 +34,7 @@
 				<rect x="42.5" y="6.8" class="st0" width="14.6" height="25.3"/>
 			</g>
 			<g>
-				<path class="st1" d="M58,32.9H41.7v-27H58V32.9z M43.4,31.2h12.8V7.6H43.4V31.2z"/>
+				<path d="M58,32.9H41.7v-27H58V32.9z M43.4,31.2h12.8V7.6H43.4V31.2z"/>
 			</g>
 		</g>
 		<g id="XMLID_2_">
@@ -46,7 +45,7 @@
 			</g>
 			<g>
 				<g>
-					<path class="st1" d="M18.5,69.1V30.9l33,19.1L18.5,69.1z M20.3,34v32.1L48.1,50L20.3,34z"/>
+					<path d="M18.5,69.1V30.9l33,19.1L18.5,69.1z M20.3,34v32.1L48.1,50L20.3,34z"/>
 				</g>
 			</g>
 		</g>
@@ -58,16 +57,16 @@
 			</g>
 			<g>
 				<g>
-					<path class="st1" d="M81.1,69.1L48.1,50l33-19.1V69.1z M51.5,50l27.8,16.1V34L51.5,50z"/>
+					<path d="M81.1,69.1L48.1,50l33-19.1V69.1z M51.5,50l27.8,16.1V34L51.5,50z"/>
 				</g>
 			</g>
 		</g>
 	</g>
 </g>
 <g id="Layer_2_2_">
-	<g class="st2">
-		<path d="M60.428,13.902h5.027v0.996h-3.844v2.578h3.469v0.996h-3.469v4.178h-1.184V13.902z"/>
-		<path d="M69.586,22.65l-3.34-8.748h1.236l2.771,7.365l2.777-7.365h1.23l-3.334,8.748H69.586z"/>
+	<g class="st1">
+		<path d="M60.4,13.9h5v1h-3.8v2.6h3.5v1h-3.5v4.2h-1.2L60.4,13.9L60.4,13.9z"/>
+		<path d="M69.6,22.6l-3.3-8.7h1.2l2.8,7.4l2.8-7.4h1.2l-3.3,8.7C70.9,22.6,69.6,22.6,69.6,22.6z"/>
 	</g>
 </g>
 </svg>

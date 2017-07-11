@@ -7,7 +7,7 @@
 	.st1{display:none;}
 	.st2{display:inline;}
 	.st3{fill:#FFFD38;}
-	.st4{fill:#231F20;}
+	.st4{fill:#000000;}
 	.st5{fill:none;stroke:#FFFFFF;stroke-width:1.8;stroke-miterlimit:5;}
 	.st6{fill:#FFFFFF;}
 	.st7{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;}

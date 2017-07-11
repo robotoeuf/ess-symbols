@@ -7,9 +7,9 @@
 	.st1{display:none;}
 	.st2{display:inline;}
 	.st3{fill:#FFFD38;}
-	.st4{fill:#231F20;}
-	.st5{fill:none;stroke:#231F20;stroke-width:1.8;stroke-miterlimit:5;}
-	.st6{fill:none;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;}
+	.st4{fill:#000000;}
+	.st5{fill:none;stroke:#000000;stroke-width:1.8;stroke-miterlimit:5;}
+	.st6{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;}
 	.st7{enable-background:new    ;}
 </style>
 <rect x="1.9" y="1.8" class="st0" width="96.4" height="96.4"/>

@@ -4,7 +4,7 @@
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#231F20;}
+	.st1{fill:#000000;}
 	.st2{fill:#FFFFFF;}
 	.st3{fill:#3DD83D;}
 </style>
@@ -22,10 +22,10 @@
 	</g>
 	<g>
 		<g>
-			<line class="st0" x1="49.8" y1="67.6" x2="49.8" y2="31.1"/>
+			<line class="st0" x1="49.8" y1="67.6" x2="49.8" y2="32.1"/>
 		</g>
 		<g>
-			<rect x="48.9" y="31.1" class="st1" width="1.7" height="36.5"/>
+			<rect x="48.9" y="32.1" class="st1" width="1.7" height="36.5"/>
 		</g>
 	</g>
 	<g>

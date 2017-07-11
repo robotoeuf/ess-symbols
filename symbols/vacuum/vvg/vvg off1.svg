@@ -6,7 +6,7 @@
 	.st0{display:none;}
 	.st1{display:inline;fill:none;}
 	.st2{display:inline;}
-	.st3{fill:#231F20;}
+	.st3{fill:#000000;}
 	.st4{fill:none;}
 	.st5{fill:none;stroke:#FF1535;stroke-miterlimit:10;}
 	.st6{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:10;}

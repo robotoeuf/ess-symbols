@@ -3,22 +3,21 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#13BFF9;}
-	.st1{fill:#000000;}
+	.st0{fill:#4FE4FA;}
 </style>
 <g>
 	<g>
 		<circle class="st0" cx="50" cy="50" r="49.1"/>
 	</g>
 	<g>
-		<rect x="-18.5" y="40.6" transform="matrix(0.2432 -0.97 0.97 0.2432 -27.962 47.0269)" width="69.3" height="1.7"/>
+		<rect x="-18.5" y="40.6" transform="matrix(0.2432 -0.97 0.97 0.2432 -27.9587 47.0502)" width="69.3" height="1.7"/>
 	</g>
 	<g>
-		<rect x="83" y="6.9" transform="matrix(0.9699 -0.2437 0.2437 0.9699 -7.5938 21.6891)" width="1.7" height="69.3"/>
+		<rect x="83" y="6.9" transform="matrix(0.9699 -0.2437 0.2437 0.9699 -7.5983 21.6879)" width="1.7" height="69.3"/>
 	</g>
 	<g>
-		<path class="st1" d="M50,1.7C23.4,1.7,1.7,23.4,1.7,50S23.4,98.3,50,98.3S98.3,76.6,98.3,50S76.6,1.7,50,1.7z M50,100
-			C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z"/>
+		<path d="M50,1.7C23.4,1.7,1.7,23.4,1.7,50S23.4,98.3,50,98.3S98.3,76.6,98.3,50S76.6,1.7,50,1.7z M50,100C22.4,100,0,77.6,0,50
+			S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z"/>
 	</g>
 </g>
 </svg>

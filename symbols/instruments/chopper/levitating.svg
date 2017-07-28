@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <g>
-	<g>
-		<path d="M50,0.5c27.294,0,49.5,22.206,49.5,49.5S77.294,99.5,50,99.5S0.5,77.294,0.5,50S22.706,0.5,50,0.5 M50,0
-			C22.386,0,0,22.386,0,50s22.386,50,50,50s50-22.386,50-50S77.614,0,50,0L50,0z"/>
-	</g>
-	<g>
-		<path d="M15.916,42.653c4.051,0,7.347,3.296,7.347,7.347s-3.296,7.347-7.347,7.347S8.569,54.051,8.569,50
-			S11.865,42.653,15.916,42.653 M15.916,42.153c-4.334,0-7.847,3.513-7.847,7.847s3.513,7.847,7.847,7.847s7.847-3.513,7.847-7.847
-			S20.249,42.153,15.916,42.153L15.916,42.153z"/>
-	</g>
-	<g>
-		<path d="M32.944,13.111c4.051,0,7.347,3.296,7.347,7.347s-3.296,7.347-7.347,7.347s-7.347-3.296-7.347-7.347
-			S28.893,13.111,32.944,13.111 M32.944,12.611c-4.334,0-7.847,3.513-7.847,7.847s3.513,7.847,7.847,7.847s7.847-3.513,7.847-7.847
-			S37.277,12.611,32.944,12.611L32.944,12.611z"/>
-	</g>
+	<circle class="st0" cx="50" cy="50" r="49.25"/>
+	<circle class="st0" cx="16.427" cy="50" r="7.729"/>
+	<circle class="st0" cx="33.199" cy="20.901" r="7.729"/>
 </g>
 <polygon points="50,62.492 41.943,76.446 58.057,76.446 "/>
-<line class="st0" x1="50" y1="75.681" x2="50" y2="95.202"/>
+<line class="st1" x1="50" y1="75.681" x2="50" y2="95.202"/>
 </svg>

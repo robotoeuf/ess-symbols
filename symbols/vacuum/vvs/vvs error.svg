@@ -3,62 +3,22 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:#000000;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:#FC0D1B;}
+	.st0{fill:#FC0D1B;}
+	.st1{fill:#960810;}
+	.st2{fill:none;stroke:#960810;stroke-width:2.7;stroke-miterlimit:10;}
 </style>
-<circle class="st0" cx="50" cy="50" r="49.1"/>
+<g id="Layer_2">
+</g>
 <g>
-	<g>
-		<g>
-			<rect x="-0.2" y="48.9" class="st1" width="19.6" height="1.7"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<rect x="80.2" y="48.9" class="st1" width="19.6" height="1.7"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<line class="st0" x1="49.8" y1="67.6" x2="49.8" y2="32.1"/>
-		</g>
-		<g>
-			<rect x="48.9" y="32.1" class="st1" width="1.7" height="36.5"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<rect x="42.5" y="6.8" class="st2" width="14.6" height="25.3"/>
-		</g>
-		<g>
-			<path class="st1" d="M58,32.9H41.7v-27H58V32.9z M43.4,31.2h12.8V7.6H43.4V31.2z"/>
-		</g>
-	</g>
-	<g id="XMLID_2_">
-		<g>
-			<g>
-				<polygon class="st3" points="49.8,50 19.4,67.6 19.4,32.5 				"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path class="st1" d="M18.5,69.1V30.9l33,19.1L18.5,69.1z M20.3,34v32.1L48.1,50L20.3,34z"/>
-			</g>
-		</g>
-	</g>
-	<g id="XMLID_3_">
-		<g>
-			<g>
-				<polygon class="st3" points="80.2,32.5 80.2,67.6 49.8,50 				"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path class="st1" d="M81.1,69.1L48.1,50l33-19.1V69.1z M51.5,50l27.8,16.1V34L51.5,50z"/>
-			</g>
-		</g>
-	</g>
+	<polygon class="st0" points="1.75,23.702 47.3,50 1.75,76.298 	"/>
+	<path class="st1" d="M44.6,50L3.101,73.96V26.04L44.6,50 M50,50L0.401,21.364v57.272L50,50L50,50z"/>
+</g>
+<g>
+	<polygon class="st0" points="52.7,50 98.25,23.702 98.25,76.298 	"/>
+	<path class="st1" d="M96.899,26.04v47.92L55.4,50L96.899,26.04 M99.599,21.364L50,50l49.599,28.636V21.364L99.599,21.364z"/>
+</g>
+<line class="st2" x1="50" y1="78.636" x2="50" y2="25.704"/>
+<g>
+	<path class="st1" d="M55.878,2.7v21.999H44.122V2.7H55.878 M58.578,0H41.422v27.399h17.156L58.578,0L58.578,0z"/>
 </g>
 </svg>

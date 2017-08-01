@@ -3,35 +3,36 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FCF211;}
-	.st1{fill:#000000;}
-	.st2{display:none;}
-	.st3{display:inline;}
-	.st4{font-family:'Helvetica';}
-	.st5{font-size:10.385px;}
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10.385px;}
+	.st4{fill:#96900A;}
+	.st5{fill:#FCF211;}
 </style>
+<g id="Layer_2_1_" class="st0">
+	<text transform="matrix(1 0 0 1 5.0005 95.8096)" class="st1 st2 st3">PI</text>
+</g>
 <g id="Layer_1_1_">
 	<g id="Layer_2">
 	</g>
 	<g>
 		<g>
-			<rect x="0.9" y="0.9" class="st0" width="98.2" height="98.2"/>
-			<path class="st1" d="M100,100H0V0h100V100z M1.8,98.2h96.4V1.8H1.8V98.2z"/>
+			<rect x="0.9" y="0.9" class="st4" width="98.2" height="98.2"/>
+			<path class="st5" d="M100,100H0V0h100V100z M1.8,98.2h96.4V1.8H1.8V98.2z"/>
 		</g>
 		<g>
-			<polygon class="st1" points="50.3,75.8 23.2,28.5 24.8,27.6 50.3,72.2 75.2,27.6 76.8,28.4 			"/>
+			<polygon points="50.3,75.8 23.2,28.5 24.8,27.6 50.3,72.2 75.2,27.6 76.8,28.4 			"/>
 		</g>
 		<g>
-			<rect x="24" y="49.1" class="st1" width="52" height="1.8"/>
+			<rect x="24" y="49.1" width="52" height="1.8"/>
 		</g>
-	</g>
-	<g>
-		<path d="M5.9,88.4h3.3c0.7,0,1.2,0.2,1.6,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.6-0.2,1.1-0.5,1.5c-0.4,0.4-0.9,0.6-1.7,0.6H6.9v3.1h-1
-			V88.4z M9.8,89.4c-0.2-0.1-0.5-0.2-0.9-0.2h-2v2.6h2c0.4,0,0.8-0.1,1.1-0.3c0.3-0.2,0.4-0.5,0.4-1C10.4,90,10.2,89.6,9.8,89.4z"/>
-		<path d="M12.9,88.4h1v7.4h-1V88.4z"/>
 	</g>
 </g>
-<g id="Layer_2_1_" class="st2">
-	<text transform="matrix(1 0 0 1 5.0005 95.8096)" class="st3 st4 st5">PI</text>
+<g>
+	<path d="M6.646,79.595h4.452c1.633,0,2.868,0.37,3.705,1.109c0.836,0.738,1.255,1.82,1.255,3.246c0,1.439-0.419,2.525-1.255,3.26
+		c-0.836,0.736-2.072,1.104-3.705,1.104h-2.48v5.858H6.646V79.595z M8.618,81.216v5.477h2.48c0.917,0,1.627-0.238,2.128-0.713
+		c0.501-0.475,0.752-1.153,0.752-2.031c0-0.873-0.251-1.546-0.752-2.021c-0.501-0.476-1.211-0.713-2.128-0.713H8.618z"/>
+	<path d="M18.704,79.595h1.972v14.577h-1.972V79.595z"/>
 </g>
 </svg>

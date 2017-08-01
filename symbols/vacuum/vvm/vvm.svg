@@ -4,36 +4,22 @@
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#000000;}
+	.st1{fill:#797979;}
+	.st2{fill:none;stroke:#797979;stroke-width:2.7;stroke-miterlimit:10;}
 </style>
 <g id="Layer_2">
 </g>
-<g id="Layer_1_1_">
-	<circle class="st0" cx="50" cy="50" r="49.1"/>
-	<g>
-		<g>
-			<rect x="83.1" y="49.1" class="st1" width="16.9" height="1.7"/>
-		</g>
-		<g>
-			<polygon class="st0" points="49.9,49.9 83,30.8 83,69.1 			"/>
-			<path class="st1" d="M83.8,70.5L48.2,49.9l35.7-20.6L83.8,70.5L83.8,70.5z M51.5,49.9l30.6,17.7V32.3L51.5,49.9z"/>
-		</g>
-		<g>
-			<rect x="49" y="83.1" class="st1" width="1.7" height="16.9"/>
-		</g>
-		<g>
-			<polygon class="st0" points="49.9,49.9 69,83.1 30.7,83.1 			"/>
-			<path class="st1" d="M70.5,83.9H29.2l20.6-35.7L70.5,83.9z M32.2,82.2h35.3L49.9,51.6L32.2,82.2z"/>
-		</g>
-		<g>
-			<circle class="st1" cx="49.9" cy="49.9" r="4.8"/>
-		</g>
-		<g>
-			<rect x="42.1" y="15.9" class="st1" width="15.6" height="1.7"/>
-		</g>
-		<g>
-			<rect x="49" y="16.7" class="st1" width="1.7" height="33.2"/>
-		</g>
-	</g>
+<g>
+	<polygon class="st0" points="23.702,98.25 50,52.7 76.298,98.25 	"/>
+	<path class="st1" d="M50,55.4l23.96,41.499H26.04L50,55.4 M50,50L21.364,99.599h57.272L50,50L50,50z"/>
 </g>
+<g>
+	<polygon class="st0" points="52.7,50 98.25,23.702 98.25,76.298 	"/>
+	<path class="st1" d="M96.899,26.04v47.92L55.4,50L96.899,26.04 M99.599,21.364L50,50l49.599,28.636V21.364L99.599,21.364z"/>
+</g>
+<line class="st2" x1="50" y1="50.401" x2="50" y2="1.39"/>
+<g>
+	<circle class="st1" cx="50" cy="50" r="7.656"/>
+</g>
+<line class="st2" x1="38.25" y1="1.39" x2="61.75" y2="1.39"/>
 </svg>

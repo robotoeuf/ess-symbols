@@ -3,43 +3,32 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:none;}
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2.7;}
+	.st2{fill:#FFFFFF;}
 </style>
 <g id="Layer_2">
 </g>
-<g id="Layer_1_1_">
-	<g>
+<g>
+	<g id="XMLID_1_">
 		<g>
-			<rect x="83.1" y="49.2" class="st0" width="16.9" height="1.7"/>
 		</g>
 		<g>
-			<polygon class="st1" points="50,50 83.1,30.9 83.1,69.1 			"/>
-			<path class="st0" d="M83.9,70.5L48.3,50l35.6-20.5C83.9,29.5,83.9,70.5,83.9,70.5z M51.7,50l30.5,17.6V32.4L51.7,50z"/>
+			<line class="st0" x1="50" y1="50.4" x2="50" y2="1.4"/>
+			<polyline class="st0" points="31.39,1.4 50,1.4 68.61,1.4 			"/>
 		</g>
-	</g>
-	<g>
-		<rect y="49.2" class="st0" width="16.9" height="1.7"/>
-	</g>
-	<g>
-		<polygon class="st1" points="50,50 16.9,30.9 16.9,69.1 		"/>
-		<path class="st0" d="M16.1,29.5L51.7,50L16.1,70.5V29.5z M17.8,32.4v35.2L48.3,50L17.8,32.4z"/>
-	</g>
-	<g>
-		<rect x="37.2" y="16.1" class="st0" width="25.5" height="1.7"/>
-	</g>
-	<g>
-		<rect x="49.2" y="16.9" class="st0" width="1.7" height="33.1"/>
 	</g>
 </g>
 <g>
-	<g>
-		
-			<rect x="59.8" y="19.8" transform="matrix(0.8721 -0.4893 0.4893 0.8721 -5.7211 33.2061)" class="st0" width="1.7" height="15.5"/>
-	</g>
-	<g>
-		
-			<rect x="37.2" y="32.9" transform="matrix(0.8721 -0.4893 0.4893 0.8721 -10.1528 28.6609)" class="st0" width="25.1" height="1.7"/>
-	</g>
+	<line class="st1" x1="33.005" y1="36.782" x2="62.565" y2="18.173"/>
+	<line class="st1" x1="55.498" y1="6.946" x2="69.633" y2="29.399"/>
+</g>
+<g>
+	<path class="st2" d="M3.1,26.037l20.75,11.981L44.6,50L23.85,61.982L3.1,73.963V50V26.037 M0.4,21.36V50v28.64l24.8-14.32L50,50
+		L25.2,35.68L0.4,21.36L0.4,21.36z"/>
+</g>
+<g>
+	<path class="st2" d="M96.9,26.037V50v23.963L76.15,61.982L55.4,50L76.15,38.018L96.9,26.037 M99.6,21.36L74.8,35.68L50,50
+		l24.8,14.32l24.8,14.32V50V21.36L99.6,21.36z"/>
 </g>
 </svg>

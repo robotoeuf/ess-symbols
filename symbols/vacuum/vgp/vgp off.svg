@@ -3,45 +3,40 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#999999;}
-	.st1{display:none;}
-	.st2{display:inline;}
-	.st3{font-family:'Helvetica';}
-	.st4{font-size:10.385px;}
-	.st5{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:5;}
-	.st6{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.5005,1.5005;}
-	.st7{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4921,1.4921;}
-	.st8{fill:none;stroke:#999999;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4714,1.4714;}
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10.385px;}
+	.st4{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;}
+	.st5{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.5005,1.5005;}
+	.st6{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4921,1.4921;}
+	.st7{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4714,1.4714;}
+	.st8{fill:#797979;}
+	.st9{fill:#A9A9A9;}
 </style>
 <g id="Layer_2">
 </g>
-<g>
-	<path class="st0" d="M5.9,88.4h3.3c0.7,0,1.2,0.2,1.6,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.6-0.2,1.1-0.5,1.5c-0.4,0.4-0.9,0.6-1.7,0.6
-		H6.9v3.1h-1V88.4z M9.8,89.4c-0.2-0.1-0.5-0.2-0.9-0.2h-2v2.6h2c0.4,0,0.8-0.1,1.1-0.3c0.3-0.2,0.4-0.5,0.4-1
-		C10.4,90,10.2,89.6,9.8,89.4z"/>
-	<path class="st0" d="M12.9,88.4h1v7.4h-1V88.4z"/>
-</g>
-<g id="Layer_2_1_" class="st1">
-	<text transform="matrix(1 0 0 1 5.0005 95.8096)" class="st2 st3 st4">PI</text>
+<g id="Layer_2_1_" class="st0">
+	<text transform="matrix(1 0 0 1 5.0005 95.8096)" class="st1 st2 st3">PI</text>
 </g>
 <g>
 	<g>
-		<line class="st5" x1="23.5" y1="27.6" x2="23.9" y2="28.3"/>
-		<line class="st6" x1="24.6" y1="29.6" x2="49.6" y2="73.2"/>
-		<polyline class="st5" points="49.9,73.8 50.3,74.5 50.7,73.8 		"/>
-		<line class="st7" x1="51.4" y1="72.5" x2="75.8" y2="28.9"/>
-		<line class="st5" x1="76.1" y1="28.3" x2="76.5" y2="27.6"/>
+		<line class="st4" x1="23.5" y1="27.6" x2="23.9" y2="28.3"/>
+		<line class="st5" x1="24.6" y1="29.6" x2="49.6" y2="73.2"/>
+		<polyline class="st4" points="49.9,73.8 50.3,74.5 50.7,73.8 		"/>
+		<line class="st6" x1="51.4" y1="72.5" x2="75.8" y2="28.9"/>
+		<line class="st4" x1="76.1" y1="28.3" x2="76.5" y2="27.6"/>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st5" x1="23.5" y1="50" x2="24.2" y2="50"/>
-		<line class="st8" x1="25.7" y1="50" x2="75" y2="50"/>
-		<line class="st5" x1="75.8" y1="50" x2="76.5" y2="50"/>
+		<line class="st4" x1="23.5" y1="50" x2="24.2" y2="50"/>
+		<line class="st7" x1="25.7" y1="50" x2="75" y2="50"/>
+		<line class="st4" x1="75.8" y1="50" x2="76.5" y2="50"/>
 	</g>
 </g>
 <g>
-	<path class="st0" d="M97,0h-1.5v1.8H97V0L97,0z M94,0h-1.5v1.8H94V0L94,0z M91,0h-1.5v1.8H91V0L91,0z M88,0h-1.5v1.8H88V0L88,0z
+	<path class="st8" d="M97,0h-1.5v1.8H97V0L97,0z M94,0h-1.5v1.8H94V0L94,0z M91,0h-1.5v1.8H91V0L91,0z M88,0h-1.5v1.8H88V0L88,0z
 		 M85,0h-1.5v1.8H85V0L85,0z M82,0h-1.5v1.8H82V0L82,0z M79,0h-1.5v1.8H79V0L79,0z M76,0h-1.5v1.8H76V0L76,0z M73,0h-1.5v1.8H73V0
 		L73,0z M70,0h-1.5v1.8H70V0L70,0z M67,0h-1.5v1.8H67V0L67,0z M64,0h-1.5v1.8H64V0L64,0z M61,0h-1.5v1.8H61V0L61,0z M58,0h-1.5v1.8
 		H58V0L58,0z M55,0h-1.5v1.8H55V0L55,0z M52,0h-1.5v1.8H52V0L52,0z M49,0h-1.5v1.8H49V0L49,0z M46,0h-1.5v1.8H46V0L46,0z M43,0h-1.5
@@ -76,5 +71,12 @@
 		V25h1.8V23.5L100,23.5z M100,20.5h-1.8V22h1.8V20.5L100,20.5z M100,17.5h-1.8V19h1.8V17.5L100,17.5z M100,14.5h-1.8V16h1.8V14.5
 		L100,14.5z M100,11.5h-1.8V13h1.8V11.5L100,11.5z M100,8.5h-1.8V10h1.8V8.5L100,8.5z M100,5.5h-1.8V7h1.8V5.5L100,5.5z M100,2.5
 		h-1.8V4h1.8V2.5L100,2.5z M100,0h-1.8v1h0.3v0.8h1.5V0L100,0z"/>
+</g>
+<g>
+	<path class="st9" d="M6.646,79.595h4.452c1.633,0,2.868,0.37,3.705,1.109c0.836,0.738,1.255,1.82,1.255,3.246
+		c0,1.439-0.419,2.525-1.255,3.26c-0.836,0.736-2.072,1.104-3.705,1.104h-2.48v5.858H6.646V79.595z M8.618,81.216v5.477h2.48
+		c0.917,0,1.627-0.238,2.128-0.713c0.501-0.475,0.752-1.153,0.752-2.031c0-0.873-0.251-1.546-0.752-2.021
+		c-0.501-0.476-1.211-0.713-2.128-0.713H8.618z"/>
+	<path class="st9" d="M18.704,79.595h1.972v14.577h-1.972V79.595z"/>
 </g>
 </svg>

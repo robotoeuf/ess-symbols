@@ -6,8 +6,8 @@
 	.st0{display:none;}
 	.st1{display:inline;}
 	.st2{fill:none;}
-	.st3{fill:#797979;}
-	.st4{fill:none;stroke:#797979;stroke-width:2.7;stroke-miterlimit:10;stroke-dasharray:1.4721,1.4721;}
+	.st3{fill:#A9A9A9;}
+	.st4{fill:none;stroke:#A9A9A9;stroke-width:2.7;stroke-miterlimit:10;stroke-dasharray:1.4721,1.4721;}
 </style>
 <g id="Layer_1_1_" class="st0">
 	<g id="Layer_2" class="st1">

@@ -3,14 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#797979;stroke-width:2.7;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#797979;stroke-width:2.7;}
-	.st2{fill:#797979;}
+	.st0{fill:none;stroke:#000000;stroke-width:2.7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2.7;}
 </style>
 <g>
 	<g id="XMLID_1_">
-		<g>
-		</g>
 		<g>
 			<line class="st0" x1="50" y1="50.4" x2="50" y2="1.4"/>
 			<polyline class="st0" points="31.39,1.4 50,1.4 68.61,1.4 			"/>
@@ -22,11 +19,11 @@
 	<line class="st1" x1="55.498" y1="6.946" x2="69.633" y2="29.399"/>
 </g>
 <g>
-	<path class="st2" d="M3.1,26.037l20.75,11.981L44.6,50L23.85,61.982L3.1,73.963V50V26.037 M0.4,21.36V50v28.64l24.8-14.32L50,50
-		L25.2,35.68L0.4,21.36L0.4,21.36z"/>
+	<path d="M3.1,26.037l20.75,11.981L44.6,50L23.85,61.982L3.1,73.963V50V26.037 M0.4,21.36V50v28.64l24.8-14.32L50,50L25.2,35.68
+		L0.4,21.36L0.4,21.36z"/>
 </g>
 <g>
-	<path class="st2" d="M96.9,26.037V50v23.963L76.15,61.982L55.4,50L76.15,38.018L96.9,26.037 M99.6,21.36L74.8,35.68L50,50
-		l24.8,14.32l24.8,14.32V50V21.36L99.6,21.36z"/>
+	<path d="M96.9,26.037V50v23.963L76.15,61.982L55.4,50l20.75-11.982L96.9,26.037 M99.6,21.36L74.8,35.68L50,50l24.8,14.32
+		l24.8,14.32V50L99.6,21.36L99.6,21.36z"/>
 </g>
 </svg>

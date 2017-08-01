@@ -3,24 +3,23 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#797979;}
-	.st1{fill:none;}
-	.st2{enable-background:new    ;}
+	.st0{fill:none;}
+	.st1{enable-background:new    ;}
 </style>
 <g>
 	<g id="Layer_2">
 	</g>
 	<g>
-		<polygon class="st0" points="78.3,65.5 76.6,65.5 76.6,10 68.6,2 32.4,2 24.4,10 24.4,65.5 22.6,65.5 22.6,9.3 31.6,0.2 69.3,0.2 
-			78.3,9.3 		"/>
+		<polygon points="78.3,65.5 76.6,65.5 76.6,10 68.6,2 32.4,2 24.4,10 24.4,65.5 22.6,65.5 22.6,9.3 31.6,0.2 69.3,0.2 78.3,9.3 		
+			"/>
 	</g>
 	<g>
-		<rect x="10.7" y="65.5" class="st1" width="79.6" height="30"/>
-		<path class="st0" d="M91.1,96.3H9.8V64.6h81.3C91.1,64.6,91.1,96.3,91.1,96.3z M11.6,94.6h77.8V66.3H11.6V94.6z"/>
+		<rect x="10.7" y="65.5" class="st0" width="79.6" height="30"/>
+		<path d="M91.1,96.3H9.8V64.6h81.3C91.1,64.6,91.1,96.3,91.1,96.3z M11.6,94.6h77.8V66.3H11.6V94.6z"/>
 	</g>
 </g>
 <g id="Layer_2_2_">
-	<g class="st2">
+	<g class="st1">
 		<path d="M38.178,27.086h1.752l2.218,5.912l2.229-5.912h1.752v8.689h-1.147v-7.629l-2.241,5.959H41.56l-2.241-5.959v7.629h-1.14
 			C38.178,35.776,38.178,27.086,38.178,27.086z"/>
 		<path d="M48.462,27.086h4.992v0.989h-3.817v2.561h3.444v0.989h-3.444v4.15h-1.175C48.462,35.776,48.462,27.086,48.462,27.086z"/>

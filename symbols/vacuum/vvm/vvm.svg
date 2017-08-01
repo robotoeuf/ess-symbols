@@ -4,22 +4,21 @@
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#797979;}
-	.st2{fill:none;stroke:#797979;stroke-width:2.7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2.7;stroke-miterlimit:10;}
 </style>
 <g id="Layer_2">
 </g>
 <g>
 	<polygon class="st0" points="23.702,98.25 50,52.7 76.298,98.25 	"/>
-	<path class="st1" d="M50,55.4l23.96,41.499H26.04L50,55.4 M50,50L21.364,99.599h57.272L50,50L50,50z"/>
+	<path d="M50,55.4l23.96,41.499H26.04L50,55.4 M50,50L21.364,99.599h57.272L50,50L50,50z"/>
 </g>
 <g>
 	<polygon class="st0" points="52.7,50 98.25,23.702 98.25,76.298 	"/>
-	<path class="st1" d="M96.899,26.04v47.92L55.4,50L96.899,26.04 M99.599,21.364L50,50l49.599,28.636V21.364L99.599,21.364z"/>
+	<path d="M96.899,26.04v47.92L55.4,50L96.899,26.04 M99.599,21.364L50,50l49.599,28.636V21.364L99.599,21.364z"/>
 </g>
-<line class="st2" x1="50" y1="50.401" x2="50" y2="1.39"/>
+<line class="st1" x1="50" y1="50.401" x2="50" y2="1.39"/>
 <g>
-	<circle class="st1" cx="50" cy="50" r="7.656"/>
+	<circle cx="50" cy="50" r="7.656"/>
 </g>
-<line class="st2" x1="38.25" y1="1.39" x2="61.75" y2="1.39"/>
+<line class="st1" x1="38.25" y1="1.39" x2="61.75" y2="1.39"/>
 </svg>

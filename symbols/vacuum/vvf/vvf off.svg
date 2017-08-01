@@ -6,8 +6,8 @@
 	.st0{display:none;}
 	.st1{display:inline;}
 	.st2{fill:none;}
-	.st3{fill:#797979;}
-	.st4{fill:none;stroke:#797979;stroke-width:2.7;stroke-miterlimit:10;stroke-dasharray:1.4721,1.4721;}
+	.st3{fill:#A9A9A9;}
+	.st4{fill:none;stroke:#A9A9A9;stroke-width:2.7;stroke-miterlimit:10;stroke-dasharray:1.4721,1.4721;}
 </style>
 <g id="Layer_1_1_" class="st0">
 	<g id="Layer_2" class="st1">
@@ -216,7 +216,8 @@
 		L58.578,0z"/>
 </g>
 <g>
-	<path class="st3" d="M61.364,7.91h6.654v1.318h-5.088v3.412h4.591v1.318h-4.591v5.529h-1.566V7.91z"/>
-	<path class="st3" d="M73.485,19.489L69.065,7.91h1.637l3.668,9.748l3.676-9.748h1.628l-4.412,11.578H73.485z"/>
+	<path class="st3" d="M61.364,7.91h6.654v1.318H62.93v3.412h4.591v1.318H62.93v5.529h-1.566V7.91z"/>
+	<path class="st3" d="M73.485,19.489L69.065,7.91h1.637l3.668,9.748l3.676-9.748h1.628l-4.412,11.578L73.485,19.489L73.485,19.489z"
+		/>
 </g>
 </svg>

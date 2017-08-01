@@ -7,9 +7,8 @@
 	.st1{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.5005,1.5005;}
 	.st2{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4921,1.4921;}
 	.st3{fill:none;stroke:#A9A9A9;stroke-width:1.8;stroke-miterlimit:5;stroke-dasharray:1.4714,1.4714;}
-	.st4{fill:#797979;}
+	.st4{fill:#A9A9A9;}
 	.st5{enable-background:new    ;}
-	.st6{fill:#A9A9A9;}
 </style>
 <g>
 	<g>
@@ -66,8 +65,8 @@
 </g>
 <g id="Layer_2_2_">
 	<g class="st5">
-		<path class="st6" d="M5.34,83.007h9.546v1.285h-4.005v10H9.345v-10H5.34V83.007z"/>
-		<path class="st6" d="M23.337,89.182v5.11h-1.391v-5.065c0-0.801-0.156-1.401-0.468-1.8s-0.78-0.597-1.406-0.597
+		<path class="st4" d="M5.34,83.007h9.546v1.285h-4.005v10H9.345v-10H5.34V83.007z"/>
+		<path class="st4" d="M23.337,89.182v5.11h-1.391v-5.065c0-0.801-0.156-1.401-0.468-1.8s-0.78-0.597-1.406-0.597
 			c-0.751,0-1.343,0.24-1.776,0.719s-0.65,1.131-0.65,1.958v4.785h-1.398V82.531h1.398v4.61c0.333-0.51,0.725-0.889,1.175-1.142
 			c0.45-0.253,0.971-0.378,1.561-0.378c0.973,0,1.708,0.301,2.207,0.903C23.088,87.127,23.337,88.014,23.337,89.182z"/>
 	</g>

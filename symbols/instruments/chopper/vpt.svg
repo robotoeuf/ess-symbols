@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<circle id="SVGID_1_" cx="50" cy="50" r="50"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st0">
+						<line class="st1" x1="50" y1="1.7" x2="43.5" y2="10.9"/>
+						<line class="st1" x1="50" y1="1.7" x2="56.5" y2="10.9"/>
+						<g>
+							<line class="st1" x1="15.7" y1="83.6" x2="24.5" y2="82.1"/>
+							<line class="st1" x1="15.7" y1="83.6" x2="17.3" y2="74.8"/>
+						</g>
+						<g>
+							<line class="st1" x1="84.3" y1="83.6" x2="75.5" y2="82.1"/>
+							<g>
+								<line class="st1" x1="84.3" y1="83.6" x2="82.7" y2="74.8"/>
+								<g>
+									<rect x="-19" y="40.1" transform="matrix(0.2439 -0.9698 0.9698 0.2439 -27.9641 47.0153)" width="70.3" height="2.7"/>
+									<rect x="82.5" y="6.4" transform="matrix(0.9699 -0.2436 0.2436 0.9699 -7.5979 21.6806)" width="2.7" height="70.3"/>
+								</g>
+							</g>
+						</g>
+						<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,1.7C23.4,1.7,1.7,23.4,1.7,50
+							S23.4,98.3,50,98.3S98.3,76.6,98.3,50S76.6,1.7,50,1.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path d="M50,39.7c-5.7,0-10.3,4.6-10.3,10.3S44.3,60.3,50,60.3c5.7,0,10.3-4.6,10.3-10.3S55.7,39.7,50,39.7z M50,57.6
+		c-4.2,0-7.6-3.4-7.6-7.6s3.4-7.6,7.6-7.6c4.2,0,7.6,3.4,7.6,7.6S54.2,57.6,50,57.6z"/>
+	<path d="M50,29.6c-11.2,0-20.4,9.2-20.4,20.4S38.8,70.4,50,70.4S70.4,61.2,70.4,50S61.2,29.6,50,29.6z M50,67.7
+		c-9.8,0-17.7-7.9-17.7-17.7S40.2,32.3,50,32.3S67.7,40.2,67.7,50C67.7,59.8,59.8,67.7,50,67.7z"/>
+</g>
+</svg>

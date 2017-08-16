@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FC0D1B;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#3DD83D;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:#797979;}
+	.st5{fill:none;stroke:#797979;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#797979;stroke-miterlimit:10;stroke-dasharray:1.1351,1.1351;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M3.4,5.3H2.1C1.5,5.3,1,4.8,1,4.2V2.4c0-0.6,0.5-1.1,1.1-1.1h1.3H15v13.3H3.4V5.3z"/>
+		<path class="st1" d="M3.4,5.3H2.1C1.5,5.3,1,5.8,1,6.4v1.8c0,0.6,0.5,1.1,1.1,1.1h1.3"/>
+		<path class="st1" d="M3.4,9.3H2.1C1.5,9.3,1,9.8,1,10.4v1.8c0,0.6,0.5,1.1,1.1,1.1h1.3"/>
+	</g>
+	<g>
+		<rect x="7.2" y="5.7" class="st2" width="2.5" height="3.2"/>
+		<circle class="st3" cx="9.8" cy="8.7" r="1.4"/>
+	</g>
+	<rect x="5.1" y="3.8" class="st4" width="1.4" height="1.4"/>
+	<rect x="11.8" y="3.8" class="st4" width="1.4" height="1.4"/>
+	<rect x="5.1" y="10.5" class="st4" width="1.4" height="1.4"/>
+	<rect x="11.8" y="10.5" class="st4" width="1.4" height="1.4"/>
+	<g>
+		<g>
+			<polyline class="st5" points="12.5,10.7 12.5,11.2 12,11.2 			"/>
+			<line class="st6" x1="10.9" y1="11.2" x2="6.9" y2="11.2"/>
+			<polyline class="st5" points="6.3,11.2 5.8,11.2 5.8,10.7 			"/>
+			<line class="st6" x1="5.8" y1="9.6" x2="5.8" y2="5.6"/>
+			<polyline class="st5" points="5.8,5.1 5.8,4.6 6.3,4.6 			"/>
+			<line class="st6" x1="7.5" y1="4.6" x2="11.5" y2="4.6"/>
+			<polyline class="st5" points="12,4.6 12.5,4.6 12.5,5.1 			"/>
+			<line class="st6" x1="12.5" y1="6.2" x2="12.5" y2="10.2"/>
+		</g>
+	</g>
+</g>
+</svg>

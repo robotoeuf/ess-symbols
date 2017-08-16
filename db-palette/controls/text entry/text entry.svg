@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#797979;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M12.3856735,13.0828352h-8.771347C2.1704741,13.0828352,1,11.9123621,1,10.4685087V5.5314913
+		c0-1.4438529,1.1704741-2.614327,2.6143267-2.614327h8.771347C13.8295259,2.9171643,15,4.0876384,15,5.5314913v4.9370174
+		C15,11.9123621,13.8295259,13.0828352,12.3856735,13.0828352z"/>
+	<g>
+		<path d="M2.7267578,4.7565756h5.4878902v0.7382812H5.911849v5.7485676H5.0295572V5.4948568H2.7267578V4.7565756z"/>
+	</g>
+	<g>
+		<line class="st1" x1="9.6195126" y1="4.7565756" x2="9.6195126" y2="11.2434244"/>
+		<line class="st1" x1="9.0168219" y1="4.7565756" x2="10.2222023" y2="4.7565756"/>
+		<line class="st1" x1="9.0168219" y1="11.2434244" x2="10.2222023" y2="11.2434244"/>
+	</g>
+</g>
+</svg>

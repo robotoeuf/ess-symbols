@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
@@ -7,13 +7,15 @@
 	.st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{fill:#3DD83D;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<line class="st0" x1="0.659556" y1="4.5884614" x2="0.659556" y2="7.4115386"/>
-<line class="st0" x1="3.5957336" y1="4.5884614" x2="3.5957336" y2="7.4115386"/>
-<line class="st0" x1="6.5319114" y1="4.5884614" x2="6.5319114" y2="7.4115386"/>
-<line class="st0" x1="9.4680891" y1="4.5884614" x2="9.4680891" y2="7.4115386"/>
-<line class="st0" x1="12.4042664" y1="4.5884614" x2="12.4042664" y2="7.4115386"/>
-<line class="st0" x1="15.3404446" y1="4.5884614" x2="15.3404446" y2="7.4115386"/>
-<line class="st1" x1="0.5" y1="8" x2="7.9694247" y2="8"/>
-<line class="st1" x1="12.4613466" y1="8" x2="15.5" y2="8"/>
-<circle class="st2" cx="10.2153854" cy="8" r="2.2459612"/>
+<g>
+	<line class="st0" x1="14.8510809" y1="11.184103" x2="14.8510809" y2="8.5492306"/>
+	<line class="st0" x1="12.1106482" y1="11.184103" x2="12.1106482" y2="8.5492306"/>
+	<line class="st0" x1="9.3702164" y1="11.184103" x2="9.3702164" y2="8.5492306"/>
+	<line class="st0" x1="6.6297836" y1="11.184103" x2="6.6297836" y2="8.5492306"/>
+	<line class="st0" x1="3.8893511" y1="11.184103" x2="3.8893511" y2="8.5492306"/>
+	<line class="st0" x1="1.1489185" y1="11.184103" x2="1.1489185" y2="8.5492306"/>
+	<line class="st1" x1="15" y1="8" x2="8.0285368" y2="8"/>
+	<line class="st1" x1="3.8360765" y1="8" x2="1" y2="8"/>
+	<circle class="st2" cx="5.9323068" cy="8" r="2.0962303"/>
+</g>
 </svg>
